@@ -1,4 +1,3 @@
-streamlit 
+streamlit
+openai==0.28
 arxiv
-openai
-pypdf
